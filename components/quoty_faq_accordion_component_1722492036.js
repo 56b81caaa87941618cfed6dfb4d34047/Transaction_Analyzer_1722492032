@@ -6,7 +6,7 @@
 Vue.component("quoty_faq_accordion_component_1722492036", {
     template: `
     <section class="py-8 bg-white pl-4">
-        <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+        <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions About Our Data Analysis App</h2>
         <!-- Accordion -->
         <div class="space-y-3">
             <!-- Accordion item -->
@@ -35,10 +35,10 @@ Vue.component("quoty_faq_accordion_component_1722492036", {
     data() {
         return {
             terms: [
-                { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-                { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-                { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-                { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false },
+                { title: "What types of data can be analyzed?", description: "Our app is designed to analyze transactional data from various sources such as sales records, financial transactions, and supply chain data. It can handle structured and semi-structured data formats.", expanded: false },
+                { title: "How is the data processed?", description: "The app utilizes advanced data mining and machine learning algorithms to identify patterns, trends, and anomalies within the data. It can also perform predictive modeling and forecasting.", expanded: false },
+                { title: "Can I integrate the app with my existing systems?", description: "Yes, our app offers seamless integration with various databases, data warehouses, and business intelligence tools through robust APIs and data connectors.", expanded: false },
+                { title: "How is data security handled?", description: "Data security is a top priority. We employ industry-standard encryption protocols, access controls, and auditing measures to ensure the confidentiality and integrity of your data.", expanded: false },
             ],
         };
     },
