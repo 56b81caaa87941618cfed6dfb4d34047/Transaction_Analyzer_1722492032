@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new transactional data",
     "creation_time": "2024-08-01 11:30:32.910680",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "quoty"
+    "selected_starter_template_id": "quoty",
+    "frontend_theme_prompt": "The image features a surreal, cosmic landscape with a dominant color scheme of vibrant pinks and purples, incorporating gradient hues and reflective surfaces, evoking a dreamlike, otherworldly atmosphere. The style combines elements of fantasy and sci-fi art, with detailed celestial and mountainous forms."
 }
